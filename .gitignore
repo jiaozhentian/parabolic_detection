@@ -1,0 +1,12 @@
+ines (131 sloc)  3.01 KB
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+data/
+logs/
+
+*.avi
+*.mp4
